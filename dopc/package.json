@@ -5,7 +5,7 @@
   "dependencies": {
     "cra-template-typescript": "1.2.0",
     "dopc": "file:",
-    "jest": "^24.7.1",
+    "jest": "^29.7.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1"
